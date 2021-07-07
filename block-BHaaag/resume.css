@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(18, 36, 90);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: cornsilk;
+}
+h3{
+    color: greenyellow;
+}
+h2{
+    color: yellow;
+}
+p1{
+    color: white;
+    
+}
+.div{
+    color: Red;
+    background-color: cornsilk;
+    display: inline-block;
+   
+}
+h4{
+    color: coral;
+}
