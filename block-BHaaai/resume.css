@@ -1,0 +1,45 @@
+
+body{
+    background-color: seashell;
+}
+.body{
+    background-color:rgb(18, 36, 90);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border: 2px solid black;
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: cornsilk;
+}
+
+img{
+    width: 20%;
+    height: auto;
+    border: .5px solid red;
+    border-radius: 50%;
+    
+}
+h3{
+    color: greenyellow;
+}
+h2{
+    color: yellow;
+}
+p1{
+    color: white;
+    
+}
+.div{
+    color: sandybrown;
+    background-color: cornsilk;
+    display: inline-block;
+    
+   
+}
+h4{
+    color: coral;
+}
